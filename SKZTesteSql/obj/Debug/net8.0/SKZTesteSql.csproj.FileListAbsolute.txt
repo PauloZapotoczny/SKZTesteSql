@@ -1,0 +1,5 @@
+E:\.NET\ConexãoBanco\SKZTesteSql\SKZTesteSql\obj\Debug\net8.0\SKZTesteSql.csproj.AssemblyReference.cache
+E:\.NET\ConexãoBanco\SKZTesteSql\SKZTesteSql\obj\Debug\net8.0\SKZTesteSql.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\ConexãoBanco\SKZTesteSql\SKZTesteSql\obj\Debug\net8.0\SKZTesteSql.AssemblyInfoInputs.cache
+E:\.NET\ConexãoBanco\SKZTesteSql\SKZTesteSql\obj\Debug\net8.0\SKZTesteSql.AssemblyInfo.cs
+E:\.NET\ConexãoBanco\SKZTesteSql\SKZTesteSql\obj\Debug\net8.0\SKZTesteSql.csproj.CoreCompileInputs.cache
